@@ -108,3 +108,54 @@ header a:hover {
     font-size: 20px;
 }
 
+/* Newsletter */
+#newsletter {
+    background-color: #2d2b3e;
+    padding: 15px;
+    color: #fff;
+}
+
+#newsletter .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#newsletter input {
+    padding: 3px;
+    height: 25px;
+    width: 250px;
+}
+
+/* Boxes */
+#boxes {
+    margin-top: 20px;
+}
+
+#boxes .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#boxes .box {
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+}
+
+#boxes i {
+    font-size: 225px;
+    margin: auto;
+}
+
+#boxes .fa-html5 {
+    color: #d45632;
+}
+
+#boxes .fa-css3-alt {
+    color: #2d50dc;
+}
+
+#boxes .fa-js {
+    color: #f3df50;
+}
